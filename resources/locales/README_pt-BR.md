@@ -18,8 +18,6 @@ Aqui estão algumas ideias para começar:
 
 ![Header](https://raw.githubusercontent.com/galacstec/galacstec/main/resources/img/header_techs.png)
 
-## Sobre mim
-
 <table align="right">
   <tr><td><a href="../../README.md"><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/png100px/us.png" height="13"> English</a></td></tr>
   <tr><td><b><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/png100px/br.png" height="17"> Português</b></td></tr>
@@ -27,11 +25,12 @@ Aqui estão algumas ideias para começar:
 
 <img align="left" src="https://raw.githubusercontent.com/galacstec/galacstec/main/resources/img/octocat_dancing.gif">
 
+### Sobre mim
 💬 Eu sempre gostei de tecnologia em geral, seja interagindo, pesquisando ou desenvolvendo, atualmente o que eu mais gosto é de desenvolver não importando se é front-end, back-end, mobile ou web.  
 🤔 Meu objetivo é me tornar Desenvolvedor de Software/Engenheiro de Software e colocar meus projetos em prática.  
 💙 Gosto de experimentar novas tecnologias e métodos.  
 
-<br /><br /><br />
+<br />
 
 ## Configuração
 ![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows)
