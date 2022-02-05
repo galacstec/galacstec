@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <table align="right">
  <tr><td><b><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/png100px/us.png" height="13"> English</b></td></tr>
- <tr><td><a href="resources/locales/README_pt.md"><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/png100px/br.png" height="17"> Português</a></td></tr>
+ <tr><td><a href="resources/locales/README_pt-BR.md"><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/png100px/br.png" height="17"> Português</a></td></tr>
 </table>
 
 <img align="left" src="https://raw.githubusercontent.com/galacstec/galacstec/main/resources/img/octocat_dancing.gif">
