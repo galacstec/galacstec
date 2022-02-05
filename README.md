@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 ![Header](https://raw.githubusercontent.com/galacstec/galacstec/main/resources/img/header_techs.png)
 
-## About me
-
 <table align="right">
  <tr><td><b><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/png100px/us.png" height="13"> English</b></td></tr>
  <tr><td><a href="resources/locales/README_pt-BR.md"><img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/png100px/br.png" height="17"> Português</a></td></tr>
@@ -27,11 +25,12 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://raw.githubusercontent.com/galacstec/galacstec/main/resources/img/octocat_dancing.gif">
 
+### About Me
 💬 I've always liked technology in general, whether interacting, researching or developing, currently what I like most is to develop no matter if it's front-end, back-end, mobile or web.  
 🤔 My goal is to become software developer/software engineer and make my projects real.  
 💙 I like to try new technologies and methods.  
 
-<br /><br /><br />
+<br />
 
 ## Setup
 ![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows)
